@@ -21,8 +21,7 @@
                 <input type="text">
                 <label for="">Quantidade</label>
                 <input type="number" name="" id="">
-                <button class="btn btn-primary" id="buscar">Buscar</button>
-                <a href="../webapp/view/registro.html" class="pull-right"> Registrar o Produto</a>
+                <form href="registro" class="pull-right"> Registrar o Produto </form>
             </div>
             <div class="col coluna-2">
                 <table class="table table-striped">
